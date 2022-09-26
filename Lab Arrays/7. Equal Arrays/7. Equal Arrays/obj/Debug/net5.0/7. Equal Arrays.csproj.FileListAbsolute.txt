@@ -1,0 +1,15 @@
+C:\Users\igospodinov.TUGAB\source\repos\7. Equal Arrays\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.exe
+C:\Users\igospodinov.TUGAB\source\repos\7. Equal Arrays\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\7. Equal Arrays\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\7. Equal Arrays\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\7. Equal Arrays\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.dll
+C:\Users\igospodinov.TUGAB\source\repos\7. Equal Arrays\7. Equal Arrays\bin\Debug\net5.0\ref\7. Equal Arrays.dll
+C:\Users\igospodinov.TUGAB\source\repos\7. Equal Arrays\7. Equal Arrays\bin\Debug\net5.0\7. Equal Arrays.pdb
+C:\Users\igospodinov.TUGAB\source\repos\7. Equal Arrays\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\7. Equal Arrays\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\7. Equal Arrays\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\7. Equal Arrays\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\7. Equal Arrays\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.dll
+C:\Users\igospodinov.TUGAB\source\repos\7. Equal Arrays\7. Equal Arrays\obj\Debug\net5.0\ref\7. Equal Arrays.dll
+C:\Users\igospodinov.TUGAB\source\repos\7. Equal Arrays\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.pdb
+C:\Users\igospodinov.TUGAB\source\repos\7. Equal Arrays\7. Equal Arrays\obj\Debug\net5.0\7. Equal Arrays.genruntimeconfig.cache
