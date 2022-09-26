@@ -1,0 +1,15 @@
+C:\Users\igospodinov.TUGAB\source\repos\4. Reverse Array of Strings\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.exe
+C:\Users\igospodinov.TUGAB\source\repos\4. Reverse Array of Strings\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\4. Reverse Array of Strings\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\4. Reverse Array of Strings\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\4. Reverse Array of Strings\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. Reverse Array of Strings\4. Reverse Array of Strings\bin\Debug\net5.0\ref\4. Reverse Array of Strings.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. Reverse Array of Strings\4. Reverse Array of Strings\bin\Debug\net5.0\4. Reverse Array of Strings.pdb
+C:\Users\igospodinov.TUGAB\source\repos\4. Reverse Array of Strings\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\4. Reverse Array of Strings\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\4. Reverse Array of Strings\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\4. Reverse Array of Strings\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\4. Reverse Array of Strings\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. Reverse Array of Strings\4. Reverse Array of Strings\obj\Debug\net5.0\ref\4. Reverse Array of Strings.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. Reverse Array of Strings\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.pdb
+C:\Users\igospodinov.TUGAB\source\repos\4. Reverse Array of Strings\4. Reverse Array of Strings\obj\Debug\net5.0\4. Reverse Array of Strings.genruntimeconfig.cache
