@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\bin\Debug\net5.0\5. Top Integers.exe
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\bin\Debug\net5.0\5. Top Integers.deps.json
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\bin\Debug\net5.0\5. Top Integers.runtimeconfig.json
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\bin\Debug\net5.0\5. Top Integers.runtimeconfig.dev.json
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\bin\Debug\net5.0\5. Top Integers.dll
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\bin\Debug\net5.0\ref\5. Top Integers.dll
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\bin\Debug\net5.0\5. Top Integers.pdb
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\obj\Debug\net5.0\5. Top Integers.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\obj\Debug\net5.0\5. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\obj\Debug\net5.0\5. Top Integers.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\obj\Debug\net5.0\5. Top Integers.AssemblyInfo.cs
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\obj\Debug\net5.0\5. Top Integers.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\obj\Debug\net5.0\5. Top Integers.dll
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\obj\Debug\net5.0\ref\5. Top Integers.dll
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\obj\Debug\net5.0\5. Top Integers.pdb
+C:\Users\iig\source\repos\5. Top Integers\5. Top Integers\obj\Debug\net5.0\5. Top Integers.genruntimeconfig.cache
