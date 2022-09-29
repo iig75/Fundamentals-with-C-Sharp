@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.exe
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.deps.json
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.runtimeconfig.json
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.runtimeconfig.dev.json
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.dll
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\bin\Debug\net5.0\ref\6. Equal Sums.dll
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\bin\Debug\net5.0\6. Equal Sums.pdb
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.AssemblyInfo.cs
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.dll
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\obj\Debug\net5.0\ref\6. Equal Sums.dll
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.pdb
+C:\Users\iig\source\repos\6. Equal Sums\6. Equal Sums\obj\Debug\net5.0\6. Equal Sums.genruntimeconfig.cache
