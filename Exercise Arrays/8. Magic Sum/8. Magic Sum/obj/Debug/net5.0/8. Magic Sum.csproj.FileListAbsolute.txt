@@ -1,0 +1,15 @@
+C:\Users\igospodinov.TUGAB\source\repos\8. Magic Sum\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.exe
+C:\Users\igospodinov.TUGAB\source\repos\8. Magic Sum\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\8. Magic Sum\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\8. Magic Sum\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\8. Magic Sum\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.dll
+C:\Users\igospodinov.TUGAB\source\repos\8. Magic Sum\8. Magic Sum\bin\Debug\net5.0\ref\8. Magic Sum.dll
+C:\Users\igospodinov.TUGAB\source\repos\8. Magic Sum\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.pdb
+C:\Users\igospodinov.TUGAB\source\repos\8. Magic Sum\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\8. Magic Sum\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\8. Magic Sum\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\8. Magic Sum\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\8. Magic Sum\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.dll
+C:\Users\igospodinov.TUGAB\source\repos\8. Magic Sum\8. Magic Sum\obj\Debug\net5.0\ref\8. Magic Sum.dll
+C:\Users\igospodinov.TUGAB\source\repos\8. Magic Sum\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.pdb
+C:\Users\igospodinov.TUGAB\source\repos\8. Magic Sum\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.genruntimeconfig.cache
