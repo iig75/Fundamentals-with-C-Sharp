@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\obj\Debug\net5.0\8. Math Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\obj\Debug\net5.0\8. Math Power.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\obj\Debug\net5.0\8. Math Power.AssemblyInfo.cs
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\obj\Debug\net5.0\8. Math Power.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\bin\Debug\net5.0\8. Math Power.exe
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\bin\Debug\net5.0\8. Math Power.deps.json
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\bin\Debug\net5.0\8. Math Power.runtimeconfig.json
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\bin\Debug\net5.0\8. Math Power.runtimeconfig.dev.json
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\bin\Debug\net5.0\8. Math Power.dll
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\bin\Debug\net5.0\ref\8. Math Power.dll
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\bin\Debug\net5.0\8. Math Power.pdb
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\obj\Debug\net5.0\8. Math Power.dll
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\obj\Debug\net5.0\ref\8. Math Power.dll
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\obj\Debug\net5.0\8. Math Power.pdb
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\obj\Debug\net5.0\8. Math Power.genruntimeconfig.cache
+C:\Users\iig\source\repos\8. Math Power\8. Math Power\obj\Debug\net5.0\8. Math Power.csproj.AssemblyReference.cache
