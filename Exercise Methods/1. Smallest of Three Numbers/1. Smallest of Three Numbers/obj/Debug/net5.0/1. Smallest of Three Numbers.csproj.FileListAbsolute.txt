@@ -1,0 +1,15 @@
+C:\Users\iig\source\repos\1. Smallest of Three Numbers\1. Smallest of Three Numbers\bin\Debug\net5.0\1. Smallest of Three Numbers.exe
+C:\Users\iig\source\repos\1. Smallest of Three Numbers\1. Smallest of Three Numbers\bin\Debug\net5.0\1. Smallest of Three Numbers.deps.json
+C:\Users\iig\source\repos\1. Smallest of Three Numbers\1. Smallest of Three Numbers\bin\Debug\net5.0\1. Smallest of Three Numbers.runtimeconfig.json
+C:\Users\iig\source\repos\1. Smallest of Three Numbers\1. Smallest of Three Numbers\bin\Debug\net5.0\1. Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\iig\source\repos\1. Smallest of Three Numbers\1. Smallest of Three Numbers\bin\Debug\net5.0\1. Smallest of Three Numbers.dll
+C:\Users\iig\source\repos\1. Smallest of Three Numbers\1. Smallest of Three Numbers\bin\Debug\net5.0\ref\1. Smallest of Three Numbers.dll
+C:\Users\iig\source\repos\1. Smallest of Three Numbers\1. Smallest of Three Numbers\bin\Debug\net5.0\1. Smallest of Three Numbers.pdb
+C:\Users\iig\source\repos\1. Smallest of Three Numbers\1. Smallest of Three Numbers\obj\Debug\net5.0\1. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\1. Smallest of Three Numbers\1. Smallest of Three Numbers\obj\Debug\net5.0\1. Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\1. Smallest of Three Numbers\1. Smallest of Three Numbers\obj\Debug\net5.0\1. Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\iig\source\repos\1. Smallest of Three Numbers\1. Smallest of Three Numbers\obj\Debug\net5.0\1. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\1. Smallest of Three Numbers\1. Smallest of Three Numbers\obj\Debug\net5.0\1. Smallest of Three Numbers.dll
+C:\Users\iig\source\repos\1. Smallest of Three Numbers\1. Smallest of Three Numbers\obj\Debug\net5.0\ref\1. Smallest of Three Numbers.dll
+C:\Users\iig\source\repos\1. Smallest of Three Numbers\1. Smallest of Three Numbers\obj\Debug\net5.0\1. Smallest of Three Numbers.pdb
+C:\Users\iig\source\repos\1. Smallest of Three Numbers\1. Smallest of Three Numbers\obj\Debug\net5.0\1. Smallest of Three Numbers.genruntimeconfig.cache
