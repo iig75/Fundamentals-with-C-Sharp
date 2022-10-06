@@ -1,0 +1,16 @@
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\bin\Debug\net5.0\4. Printing Triangle.exe
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\bin\Debug\net5.0\4. Printing Triangle.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\bin\Debug\net5.0\4. Printing Triangle.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\bin\Debug\net5.0\4. Printing Triangle.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\bin\Debug\net5.0\4. Printing Triangle.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\bin\Debug\net5.0\ref\4. Printing Triangle.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\bin\Debug\net5.0\4. Printing Triangle.pdb
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\obj\Debug\net5.0\4. Printing Triangle.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\obj\Debug\net5.0\4. Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\obj\Debug\net5.0\4. Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\obj\Debug\net5.0\4. Printing Triangle.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\obj\Debug\net5.0\4. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\obj\Debug\net5.0\4. Printing Triangle.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\obj\Debug\net5.0\ref\4. Printing Triangle.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\obj\Debug\net5.0\4. Printing Triangle.pdb
+C:\Users\igospodinov.TUGAB\source\repos\4. Printing Triangle\4. Printing Triangle\obj\Debug\net5.0\4. Printing Triangle.genruntimeconfig.cache
