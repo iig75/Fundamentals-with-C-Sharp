@@ -1,0 +1,15 @@
+C:\Users\iig\source\repos\11. Math Operations\11. Math Operations\bin\Debug\net5.0\11. Math Operations.exe
+C:\Users\iig\source\repos\11. Math Operations\11. Math Operations\bin\Debug\net5.0\11. Math Operations.deps.json
+C:\Users\iig\source\repos\11. Math Operations\11. Math Operations\bin\Debug\net5.0\11. Math Operations.runtimeconfig.json
+C:\Users\iig\source\repos\11. Math Operations\11. Math Operations\bin\Debug\net5.0\11. Math Operations.runtimeconfig.dev.json
+C:\Users\iig\source\repos\11. Math Operations\11. Math Operations\bin\Debug\net5.0\11. Math Operations.dll
+C:\Users\iig\source\repos\11. Math Operations\11. Math Operations\bin\Debug\net5.0\ref\11. Math Operations.dll
+C:\Users\iig\source\repos\11. Math Operations\11. Math Operations\bin\Debug\net5.0\11. Math Operations.pdb
+C:\Users\iig\source\repos\11. Math Operations\11. Math Operations\obj\Debug\net5.0\11. Math Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\11. Math Operations\11. Math Operations\obj\Debug\net5.0\11. Math Operations.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\11. Math Operations\11. Math Operations\obj\Debug\net5.0\11. Math Operations.AssemblyInfo.cs
+C:\Users\iig\source\repos\11. Math Operations\11. Math Operations\obj\Debug\net5.0\11. Math Operations.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\11. Math Operations\11. Math Operations\obj\Debug\net5.0\11. Math Operations.dll
+C:\Users\iig\source\repos\11. Math Operations\11. Math Operations\obj\Debug\net5.0\ref\11. Math Operations.dll
+C:\Users\iig\source\repos\11. Math Operations\11. Math Operations\obj\Debug\net5.0\11. Math Operations.pdb
+C:\Users\iig\source\repos\11. Math Operations\11. Math Operations\obj\Debug\net5.0\11. Math Operations.genruntimeconfig.cache
