@@ -1,0 +1,15 @@
+C:\Users\igospodinov.TUGAB\source\repos\9. Palindrome Integers\9. Palindrome Integers\bin\Debug\net5.0\9. Palindrome Integers.exe
+C:\Users\igospodinov.TUGAB\source\repos\9. Palindrome Integers\9. Palindrome Integers\bin\Debug\net5.0\9. Palindrome Integers.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\9. Palindrome Integers\9. Palindrome Integers\bin\Debug\net5.0\9. Palindrome Integers.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\9. Palindrome Integers\9. Palindrome Integers\bin\Debug\net5.0\9. Palindrome Integers.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\9. Palindrome Integers\9. Palindrome Integers\bin\Debug\net5.0\9. Palindrome Integers.dll
+C:\Users\igospodinov.TUGAB\source\repos\9. Palindrome Integers\9. Palindrome Integers\bin\Debug\net5.0\ref\9. Palindrome Integers.dll
+C:\Users\igospodinov.TUGAB\source\repos\9. Palindrome Integers\9. Palindrome Integers\bin\Debug\net5.0\9. Palindrome Integers.pdb
+C:\Users\igospodinov.TUGAB\source\repos\9. Palindrome Integers\9. Palindrome Integers\obj\Debug\net5.0\9. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\9. Palindrome Integers\9. Palindrome Integers\obj\Debug\net5.0\9. Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\9. Palindrome Integers\9. Palindrome Integers\obj\Debug\net5.0\9. Palindrome Integers.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\9. Palindrome Integers\9. Palindrome Integers\obj\Debug\net5.0\9. Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\9. Palindrome Integers\9. Palindrome Integers\obj\Debug\net5.0\9. Palindrome Integers.dll
+C:\Users\igospodinov.TUGAB\source\repos\9. Palindrome Integers\9. Palindrome Integers\obj\Debug\net5.0\ref\9. Palindrome Integers.dll
+C:\Users\igospodinov.TUGAB\source\repos\9. Palindrome Integers\9. Palindrome Integers\obj\Debug\net5.0\9. Palindrome Integers.pdb
+C:\Users\igospodinov.TUGAB\source\repos\9. Palindrome Integers\9. Palindrome Integers\obj\Debug\net5.0\9. Palindrome Integers.genruntimeconfig.cache
