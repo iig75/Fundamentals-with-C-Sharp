@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\bin\Debug\net5.0\9. Greater of Two Values.exe
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\bin\Debug\net5.0\9. Greater of Two Values.deps.json
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\bin\Debug\net5.0\9. Greater of Two Values.runtimeconfig.json
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\bin\Debug\net5.0\9. Greater of Two Values.runtimeconfig.dev.json
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\bin\Debug\net5.0\9. Greater of Two Values.dll
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\bin\Debug\net5.0\ref\9. Greater of Two Values.dll
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\bin\Debug\net5.0\9. Greater of Two Values.pdb
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\obj\Debug\net5.0\9. Greater of Two Values.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\obj\Debug\net5.0\9. Greater of Two Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\obj\Debug\net5.0\9. Greater of Two Values.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\obj\Debug\net5.0\9. Greater of Two Values.AssemblyInfo.cs
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\obj\Debug\net5.0\9. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\obj\Debug\net5.0\9. Greater of Two Values.dll
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\obj\Debug\net5.0\ref\9. Greater of Two Values.dll
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\obj\Debug\net5.0\9. Greater of Two Values.pdb
+C:\Users\iig\source\repos\9. Greater of Two Values\9. Greater of Two Values\obj\Debug\net5.0\9. Greater of Two Values.genruntimeconfig.cache
