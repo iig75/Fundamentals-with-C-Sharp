@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\bin\Debug\net5.0\2. Center Point.exe
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\bin\Debug\net5.0\2. Center Point.deps.json
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\bin\Debug\net5.0\2. Center Point.runtimeconfig.json
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\bin\Debug\net5.0\2. Center Point.runtimeconfig.dev.json
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\bin\Debug\net5.0\2. Center Point.dll
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\bin\Debug\net5.0\ref\2. Center Point.dll
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\bin\Debug\net5.0\2. Center Point.pdb
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\obj\Debug\net5.0\2. Center Point.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\obj\Debug\net5.0\2. Center Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\obj\Debug\net5.0\2. Center Point.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\obj\Debug\net5.0\2. Center Point.AssemblyInfo.cs
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\obj\Debug\net5.0\2. Center Point.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\obj\Debug\net5.0\2. Center Point.dll
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\obj\Debug\net5.0\ref\2. Center Point.dll
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\obj\Debug\net5.0\2. Center Point.pdb
+C:\Users\iig\source\repos\2. Center Point\2. Center Point\obj\Debug\net5.0\2. Center Point.genruntimeconfig.cache
