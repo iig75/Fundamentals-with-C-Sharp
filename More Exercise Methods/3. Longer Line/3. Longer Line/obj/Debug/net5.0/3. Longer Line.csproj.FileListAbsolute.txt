@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\bin\Debug\net5.0\3. Longer Line.exe
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\bin\Debug\net5.0\3. Longer Line.deps.json
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\bin\Debug\net5.0\3. Longer Line.runtimeconfig.json
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\bin\Debug\net5.0\3. Longer Line.runtimeconfig.dev.json
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\bin\Debug\net5.0\3. Longer Line.dll
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\bin\Debug\net5.0\ref\3. Longer Line.dll
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\bin\Debug\net5.0\3. Longer Line.pdb
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\obj\Debug\net5.0\3. Longer Line.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\obj\Debug\net5.0\3. Longer Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\obj\Debug\net5.0\3. Longer Line.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\obj\Debug\net5.0\3. Longer Line.AssemblyInfo.cs
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\obj\Debug\net5.0\3. Longer Line.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\obj\Debug\net5.0\3. Longer Line.dll
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\obj\Debug\net5.0\ref\3. Longer Line.dll
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\obj\Debug\net5.0\3. Longer Line.pdb
+C:\Users\iig\source\repos\3. Longer Line\3. Longer Line\obj\Debug\net5.0\3. Longer Line.genruntimeconfig.cache
