@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.AssemblyInfo.cs
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\bin\Debug\net5.0\4. Tribonacci Sequence.exe
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\bin\Debug\net5.0\4. Tribonacci Sequence.deps.json
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\bin\Debug\net5.0\4. Tribonacci Sequence.runtimeconfig.json
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\bin\Debug\net5.0\4. Tribonacci Sequence.runtimeconfig.dev.json
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\bin\Debug\net5.0\4. Tribonacci Sequence.dll
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\bin\Debug\net5.0\ref\4. Tribonacci Sequence.dll
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\bin\Debug\net5.0\4. Tribonacci Sequence.pdb
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.dll
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\obj\Debug\net5.0\ref\4. Tribonacci Sequence.dll
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.pdb
+C:\Users\iig\source\repos\4. Tribonacci Sequence\4. Tribonacci Sequence\obj\Debug\net5.0\4. Tribonacci Sequence.genruntimeconfig.cache
