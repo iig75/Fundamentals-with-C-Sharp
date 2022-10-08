@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Multiplication Sign", "5. Multiplication Sign\5. Multiplication Sign.csproj", "{39D1969E-6DFE-4437-8AA3-9825C5B14017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39D1969E-6DFE-4437-8AA3-9825C5B14017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D1969E-6DFE-4437-8AA3-9825C5B14017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D1969E-6DFE-4437-8AA3-9825C5B14017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D1969E-6DFE-4437-8AA3-9825C5B14017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {268538C0-AF2E-476D-8061-A722FC9E4CCD}
+	EndGlobalSection
+EndGlobal

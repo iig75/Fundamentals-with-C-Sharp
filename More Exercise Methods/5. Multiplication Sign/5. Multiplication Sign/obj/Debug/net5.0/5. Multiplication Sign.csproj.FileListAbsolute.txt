@@ -1,0 +1,15 @@
+C:\Users\iig\source\repos\5. Multiplication Sign\5. Multiplication Sign\bin\Debug\net5.0\5. Multiplication Sign.exe
+C:\Users\iig\source\repos\5. Multiplication Sign\5. Multiplication Sign\bin\Debug\net5.0\5. Multiplication Sign.deps.json
+C:\Users\iig\source\repos\5. Multiplication Sign\5. Multiplication Sign\bin\Debug\net5.0\5. Multiplication Sign.runtimeconfig.json
+C:\Users\iig\source\repos\5. Multiplication Sign\5. Multiplication Sign\bin\Debug\net5.0\5. Multiplication Sign.runtimeconfig.dev.json
+C:\Users\iig\source\repos\5. Multiplication Sign\5. Multiplication Sign\bin\Debug\net5.0\5. Multiplication Sign.dll
+C:\Users\iig\source\repos\5. Multiplication Sign\5. Multiplication Sign\bin\Debug\net5.0\ref\5. Multiplication Sign.dll
+C:\Users\iig\source\repos\5. Multiplication Sign\5. Multiplication Sign\bin\Debug\net5.0\5. Multiplication Sign.pdb
+C:\Users\iig\source\repos\5. Multiplication Sign\5. Multiplication Sign\obj\Debug\net5.0\5. Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\5. Multiplication Sign\5. Multiplication Sign\obj\Debug\net5.0\5. Multiplication Sign.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\5. Multiplication Sign\5. Multiplication Sign\obj\Debug\net5.0\5. Multiplication Sign.AssemblyInfo.cs
+C:\Users\iig\source\repos\5. Multiplication Sign\5. Multiplication Sign\obj\Debug\net5.0\5. Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\5. Multiplication Sign\5. Multiplication Sign\obj\Debug\net5.0\5. Multiplication Sign.dll
+C:\Users\iig\source\repos\5. Multiplication Sign\5. Multiplication Sign\obj\Debug\net5.0\ref\5. Multiplication Sign.dll
+C:\Users\iig\source\repos\5. Multiplication Sign\5. Multiplication Sign\obj\Debug\net5.0\5. Multiplication Sign.pdb
+C:\Users\iig\source\repos\5. Multiplication Sign\5. Multiplication Sign\obj\Debug\net5.0\5. Multiplication Sign.genruntimeconfig.cache
