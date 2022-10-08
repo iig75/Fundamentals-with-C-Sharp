@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\bin\Debug\net5.0\1. Data Types.exe
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\bin\Debug\net5.0\1. Data Types.deps.json
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\bin\Debug\net5.0\1. Data Types.runtimeconfig.json
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\bin\Debug\net5.0\1. Data Types.runtimeconfig.dev.json
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\bin\Debug\net5.0\1. Data Types.dll
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\bin\Debug\net5.0\ref\1. Data Types.dll
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\bin\Debug\net5.0\1. Data Types.pdb
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\obj\Debug\net5.0\1. Data Types.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\obj\Debug\net5.0\1. Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\obj\Debug\net5.0\1. Data Types.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\obj\Debug\net5.0\1. Data Types.AssemblyInfo.cs
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\obj\Debug\net5.0\1. Data Types.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\obj\Debug\net5.0\1. Data Types.dll
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\obj\Debug\net5.0\ref\1. Data Types.dll
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\obj\Debug\net5.0\1. Data Types.pdb
+C:\Users\iig\source\repos\1. Data Types\1. Data Types\obj\Debug\net5.0\1. Data Types.genruntimeconfig.cache
