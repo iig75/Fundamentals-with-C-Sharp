@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.exe
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.deps.json
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.runtimeconfig.json
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.runtimeconfig.dev.json
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.dll
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\bin\Debug\net5.0\ref\2. Pascal Triangle.dll
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\bin\Debug\net5.0\2. Pascal Triangle.pdb
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.AssemblyInfo.cs
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.dll
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\obj\Debug\net5.0\ref\2. Pascal Triangle.dll
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.pdb
+C:\Users\iig\source\repos\2. Pascal Triangle\2. Pascal Triangle\obj\Debug\net5.0\2. Pascal Triangle.genruntimeconfig.cache
