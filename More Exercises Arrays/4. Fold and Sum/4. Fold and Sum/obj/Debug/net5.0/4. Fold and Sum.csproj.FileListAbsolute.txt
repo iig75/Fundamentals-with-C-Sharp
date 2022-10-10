@@ -1,0 +1,16 @@
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\bin\Debug\net5.0\4. Fold and Sum.exe
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\bin\Debug\net5.0\4. Fold and Sum.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\bin\Debug\net5.0\4. Fold and Sum.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\bin\Debug\net5.0\4. Fold and Sum.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\bin\Debug\net5.0\4. Fold and Sum.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\bin\Debug\net5.0\ref\4. Fold and Sum.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\bin\Debug\net5.0\4. Fold and Sum.pdb
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\obj\Debug\net5.0\4. Fold and Sum.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\obj\Debug\net5.0\4. Fold and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\obj\Debug\net5.0\4. Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\obj\Debug\net5.0\4. Fold and Sum.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\obj\Debug\net5.0\4. Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\obj\Debug\net5.0\4. Fold and Sum.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\obj\Debug\net5.0\ref\4. Fold and Sum.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\obj\Debug\net5.0\4. Fold and Sum.pdb
+C:\Users\igospodinov.TUGAB\source\repos\4. Fold and Sum\4. Fold and Sum\obj\Debug\net5.0\4. Fold and Sum.genruntimeconfig.cache
