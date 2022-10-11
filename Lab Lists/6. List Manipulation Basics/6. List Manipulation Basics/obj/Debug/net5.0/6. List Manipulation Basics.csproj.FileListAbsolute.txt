@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.exe
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.deps.json
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.runtimeconfig.json
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.runtimeconfig.dev.json
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.dll
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\bin\Debug\net5.0\ref\6. List Manipulation Basics.dll
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\bin\Debug\net5.0\6. List Manipulation Basics.pdb
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.AssemblyInfo.cs
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.dll
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\obj\Debug\net5.0\ref\6. List Manipulation Basics.dll
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.pdb
+C:\Users\iig\source\repos\6. List Manipulation Basics\6. List Manipulation Basics\obj\Debug\net5.0\6. List Manipulation Basics.genruntimeconfig.cache
