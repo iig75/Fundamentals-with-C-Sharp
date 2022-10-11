@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\bin\Debug\net5.0\4. List of Products.exe
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\bin\Debug\net5.0\4. List of Products.deps.json
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\bin\Debug\net5.0\4. List of Products.runtimeconfig.json
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\bin\Debug\net5.0\4. List of Products.runtimeconfig.dev.json
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\bin\Debug\net5.0\4. List of Products.dll
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\bin\Debug\net5.0\ref\4. List of Products.dll
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\bin\Debug\net5.0\4. List of Products.pdb
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\obj\Debug\net5.0\4. List of Products.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\obj\Debug\net5.0\4. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\obj\Debug\net5.0\4. List of Products.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\obj\Debug\net5.0\4. List of Products.AssemblyInfo.cs
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\obj\Debug\net5.0\4. List of Products.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\obj\Debug\net5.0\4. List of Products.dll
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\obj\Debug\net5.0\ref\4. List of Products.dll
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\obj\Debug\net5.0\4. List of Products.pdb
+C:\Users\iig\source\repos\4. List of Products\4. List of Products\obj\Debug\net5.0\4. List of Products.genruntimeconfig.cache
