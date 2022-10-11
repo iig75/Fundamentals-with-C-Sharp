@@ -1,0 +1,16 @@
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.exe
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\bin\Debug\net5.0\ref\3. Merging Lists.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\bin\Debug\net5.0\3. Merging Lists.pdb
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\obj\Debug\net5.0\ref\3. Merging Lists.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.pdb
+C:\Users\igospodinov.TUGAB\source\repos\3. Merging Lists\3. Merging Lists\obj\Debug\net5.0\3. Merging Lists.genruntimeconfig.cache
