@@ -1,0 +1,16 @@
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\bin\Debug\net5.0\1. Sum Adjacent Equal Numbers.exe
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\bin\Debug\net5.0\1. Sum Adjacent Equal Numbers.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\bin\Debug\net5.0\1. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\bin\Debug\net5.0\1. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\bin\Debug\net5.0\1. Sum Adjacent Equal Numbers.dll
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\bin\Debug\net5.0\ref\1. Sum Adjacent Equal Numbers.dll
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\bin\Debug\net5.0\1. Sum Adjacent Equal Numbers.pdb
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.dll
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\ref\1. Sum Adjacent Equal Numbers.dll
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.pdb
+C:\Users\igospodinov.TUGAB\source\repos\1. Sum Adjacent Equal Numbers\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.genruntimeconfig.cache
