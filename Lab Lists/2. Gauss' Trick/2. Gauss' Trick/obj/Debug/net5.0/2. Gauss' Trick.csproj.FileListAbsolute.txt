@@ -1,0 +1,16 @@
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.exe
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.dll
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\bin\Debug\net5.0\ref\2. Gauss' Trick.dll
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.pdb
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.dll
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\obj\Debug\net5.0\ref\2. Gauss' Trick.dll
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.pdb
+C:\Users\igospodinov.TUGAB\source\repos\2. Gauss' Trick\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.genruntimeconfig.cache
