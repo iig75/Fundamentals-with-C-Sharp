@@ -1,0 +1,16 @@
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.exe
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.dll
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\bin\Debug\net5.0\ref\7. List Manipulation Advanced.dll
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\bin\Debug\net5.0\7. List Manipulation Advanced.pdb
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.dll
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\obj\Debug\net5.0\ref\7. List Manipulation Advanced.dll
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.pdb
+C:\Users\igospodinov.TUGAB\source\repos\7. List Manipulation Advanced\7. List Manipulation Advanced\obj\Debug\net5.0\7. List Manipulation Advanced.genruntimeconfig.cache
