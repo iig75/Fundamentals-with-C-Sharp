@@ -1,0 +1,16 @@
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\bin\Debug\net5.0\4. List Operations.exe
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\bin\Debug\net5.0\4. List Operations.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\bin\Debug\net5.0\4. List Operations.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\bin\Debug\net5.0\4. List Operations.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\bin\Debug\net5.0\4. List Operations.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\bin\Debug\net5.0\ref\4. List Operations.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\bin\Debug\net5.0\4. List Operations.pdb
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\obj\Debug\net5.0\4. List Operations.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\obj\Debug\net5.0\4. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\obj\Debug\net5.0\4. List Operations.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\obj\Debug\net5.0\4. List Operations.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\obj\Debug\net5.0\4. List Operations.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\obj\Debug\net5.0\4. List Operations.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\obj\Debug\net5.0\ref\4. List Operations.dll
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\obj\Debug\net5.0\4. List Operations.pdb
+C:\Users\igospodinov.TUGAB\source\repos\4. List Operations\4. List Operations\obj\Debug\net5.0\4. List Operations.genruntimeconfig.cache
