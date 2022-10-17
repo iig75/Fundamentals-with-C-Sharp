@@ -1,0 +1,16 @@
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\obj\Debug\net5.0\3. House Party.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\obj\Debug\net5.0\3. House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\obj\Debug\net5.0\3. House Party.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\obj\Debug\net5.0\3. House Party.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\obj\Debug\net5.0\3. House Party.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\bin\Debug\net5.0\3. House Party.exe
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\bin\Debug\net5.0\3. House Party.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\bin\Debug\net5.0\3. House Party.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\bin\Debug\net5.0\3. House Party.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\bin\Debug\net5.0\3. House Party.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\bin\Debug\net5.0\ref\3. House Party.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\bin\Debug\net5.0\3. House Party.pdb
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\obj\Debug\net5.0\3. House Party.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\obj\Debug\net5.0\ref\3. House Party.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\obj\Debug\net5.0\3. House Party.pdb
+C:\Users\igospodinov.TUGAB\source\repos\3. House Party\3. House Party\obj\Debug\net5.0\3. House Party.genruntimeconfig.cache
