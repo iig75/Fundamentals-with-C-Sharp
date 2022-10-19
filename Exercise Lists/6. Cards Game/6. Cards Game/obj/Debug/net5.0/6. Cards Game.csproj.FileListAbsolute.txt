@@ -1,0 +1,16 @@
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\bin\Debug\net5.0\6. Cards Game.exe
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\bin\Debug\net5.0\6. Cards Game.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\bin\Debug\net5.0\6. Cards Game.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\bin\Debug\net5.0\6. Cards Game.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\bin\Debug\net5.0\6. Cards Game.dll
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\bin\Debug\net5.0\ref\6. Cards Game.dll
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\bin\Debug\net5.0\6. Cards Game.pdb
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\obj\Debug\net5.0\6. Cards Game.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\obj\Debug\net5.0\6. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\obj\Debug\net5.0\6. Cards Game.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\obj\Debug\net5.0\6. Cards Game.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\obj\Debug\net5.0\6. Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\obj\Debug\net5.0\6. Cards Game.dll
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\obj\Debug\net5.0\ref\6. Cards Game.dll
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\obj\Debug\net5.0\6. Cards Game.pdb
+C:\Users\igospodinov.TUGAB\source\repos\6. Cards Game\6. Cards Game\obj\Debug\net5.0\6. Cards Game.genruntimeconfig.cache
