@@ -1,0 +1,16 @@
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.exe
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.dll
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\bin\Debug\net5.0\ref\5. Bomb Numbers.dll
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\bin\Debug\net5.0\5. Bomb Numbers.pdb
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.dll
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\obj\Debug\net5.0\ref\5. Bomb Numbers.dll
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.pdb
+C:\Users\igospodinov.TUGAB\source\repos\5. Bomb Numbers\5. Bomb Numbers\obj\Debug\net5.0\5. Bomb Numbers.genruntimeconfig.cache
