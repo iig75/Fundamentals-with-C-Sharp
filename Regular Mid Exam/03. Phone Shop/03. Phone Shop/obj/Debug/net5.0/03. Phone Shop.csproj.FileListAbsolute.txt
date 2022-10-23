@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\bin\Debug\net5.0\03. Phone Shop.exe
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\bin\Debug\net5.0\03. Phone Shop.deps.json
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\bin\Debug\net5.0\03. Phone Shop.runtimeconfig.json
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\bin\Debug\net5.0\03. Phone Shop.runtimeconfig.dev.json
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\bin\Debug\net5.0\03. Phone Shop.dll
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\bin\Debug\net5.0\ref\03. Phone Shop.dll
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\bin\Debug\net5.0\03. Phone Shop.pdb
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\obj\Debug\net5.0\03. Phone Shop.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\obj\Debug\net5.0\03. Phone Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\obj\Debug\net5.0\03. Phone Shop.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\obj\Debug\net5.0\03. Phone Shop.AssemblyInfo.cs
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\obj\Debug\net5.0\03. Phone Shop.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\obj\Debug\net5.0\03. Phone Shop.dll
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\obj\Debug\net5.0\ref\03. Phone Shop.dll
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\obj\Debug\net5.0\03. Phone Shop.pdb
+C:\Users\iig\source\repos\03. Phone Shop\03. Phone Shop\obj\Debug\net5.0\03. Phone Shop.genruntimeconfig.cache

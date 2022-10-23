@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.exe
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.deps.json
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.runtimeconfig.json
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.runtimeconfig.dev.json
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.dll
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\bin\Debug\net5.0\ref\02. Coffee Lover.dll
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\bin\Debug\net5.0\02. Coffee Lover.pdb
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.AssemblyInfo.cs
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.dll
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\obj\Debug\net5.0\ref\02. Coffee Lover.dll
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.pdb
+C:\Users\iig\source\repos\02. Coffee Lover\02. Coffee Lover\obj\Debug\net5.0\02. Coffee Lover.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\bin\Debug\net5.0\01. The Hunting Games.exe
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\bin\Debug\net5.0\01. The Hunting Games.deps.json
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\bin\Debug\net5.0\01. The Hunting Games.runtimeconfig.json
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\bin\Debug\net5.0\01. The Hunting Games.runtimeconfig.dev.json
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\bin\Debug\net5.0\01. The Hunting Games.dll
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\bin\Debug\net5.0\ref\01. The Hunting Games.dll
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\bin\Debug\net5.0\01. The Hunting Games.pdb
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.AssemblyInfo.cs
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.dll
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\obj\Debug\net5.0\ref\01. The Hunting Games.dll
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.pdb
+C:\Users\iig\source\repos\01. The Hunting Games\01. The Hunting Games\obj\Debug\net5.0\01. The Hunting Games.genruntimeconfig.cache
