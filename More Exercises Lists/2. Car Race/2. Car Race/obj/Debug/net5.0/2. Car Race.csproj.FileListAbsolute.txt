@@ -1,0 +1,16 @@
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\bin\Debug\net5.0\2. Car Race.exe
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\bin\Debug\net5.0\2. Car Race.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\bin\Debug\net5.0\2. Car Race.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\bin\Debug\net5.0\2. Car Race.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\bin\Debug\net5.0\2. Car Race.dll
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\bin\Debug\net5.0\ref\2. Car Race.dll
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\bin\Debug\net5.0\2. Car Race.pdb
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\obj\Debug\net5.0\2. Car Race.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\obj\Debug\net5.0\2. Car Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\obj\Debug\net5.0\2. Car Race.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\obj\Debug\net5.0\2. Car Race.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\obj\Debug\net5.0\2. Car Race.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\obj\Debug\net5.0\2. Car Race.dll
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\obj\Debug\net5.0\ref\2. Car Race.dll
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\obj\Debug\net5.0\2. Car Race.pdb
+C:\Users\igospodinov.TUGAB\source\repos\2. Car Race\2. Car Race\obj\Debug\net5.0\2. Car Race.genruntimeconfig.cache
