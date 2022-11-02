@@ -1,0 +1,15 @@
+C:\Users\iig\source\repos\4. Word Filter\4. Word Filter\bin\Debug\net5.0\4. Word Filter.exe
+C:\Users\iig\source\repos\4. Word Filter\4. Word Filter\bin\Debug\net5.0\4. Word Filter.deps.json
+C:\Users\iig\source\repos\4. Word Filter\4. Word Filter\bin\Debug\net5.0\4. Word Filter.runtimeconfig.json
+C:\Users\iig\source\repos\4. Word Filter\4. Word Filter\bin\Debug\net5.0\4. Word Filter.runtimeconfig.dev.json
+C:\Users\iig\source\repos\4. Word Filter\4. Word Filter\bin\Debug\net5.0\4. Word Filter.dll
+C:\Users\iig\source\repos\4. Word Filter\4. Word Filter\bin\Debug\net5.0\ref\4. Word Filter.dll
+C:\Users\iig\source\repos\4. Word Filter\4. Word Filter\bin\Debug\net5.0\4. Word Filter.pdb
+C:\Users\iig\source\repos\4. Word Filter\4. Word Filter\obj\Debug\net5.0\4. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\4. Word Filter\4. Word Filter\obj\Debug\net5.0\4. Word Filter.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\4. Word Filter\4. Word Filter\obj\Debug\net5.0\4. Word Filter.AssemblyInfo.cs
+C:\Users\iig\source\repos\4. Word Filter\4. Word Filter\obj\Debug\net5.0\4. Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\4. Word Filter\4. Word Filter\obj\Debug\net5.0\4. Word Filter.dll
+C:\Users\iig\source\repos\4. Word Filter\4. Word Filter\obj\Debug\net5.0\ref\4. Word Filter.dll
+C:\Users\iig\source\repos\4. Word Filter\4. Word Filter\obj\Debug\net5.0\4. Word Filter.pdb
+C:\Users\iig\source\repos\4. Word Filter\4. Word Filter\obj\Debug\net5.0\4. Word Filter.genruntimeconfig.cache
