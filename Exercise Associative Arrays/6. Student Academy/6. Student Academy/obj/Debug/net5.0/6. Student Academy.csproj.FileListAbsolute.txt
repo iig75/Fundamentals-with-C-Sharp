@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\bin\Debug\net5.0\6. Student Academy.exe
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\bin\Debug\net5.0\6. Student Academy.deps.json
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\bin\Debug\net5.0\6. Student Academy.runtimeconfig.json
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\bin\Debug\net5.0\6. Student Academy.runtimeconfig.dev.json
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\bin\Debug\net5.0\6. Student Academy.dll
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\bin\Debug\net5.0\ref\6. Student Academy.dll
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\bin\Debug\net5.0\6. Student Academy.pdb
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\obj\Debug\net5.0\6. Student Academy.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\obj\Debug\net5.0\6. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\obj\Debug\net5.0\6. Student Academy.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\obj\Debug\net5.0\6. Student Academy.AssemblyInfo.cs
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\obj\Debug\net5.0\6. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\obj\Debug\net5.0\6. Student Academy.dll
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\obj\Debug\net5.0\ref\6. Student Academy.dll
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\obj\Debug\net5.0\6. Student Academy.pdb
+C:\Users\iig\source\repos\6. Student Academy\6. Student Academy\obj\Debug\net5.0\6. Student Academy.genruntimeconfig.cache
