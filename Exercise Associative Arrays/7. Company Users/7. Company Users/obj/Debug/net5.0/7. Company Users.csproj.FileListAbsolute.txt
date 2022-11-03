@@ -1,0 +1,15 @@
+C:\Users\iig\source\repos\7. Company Users\7. Company Users\bin\Debug\net5.0\7. Company Users.exe
+C:\Users\iig\source\repos\7. Company Users\7. Company Users\bin\Debug\net5.0\7. Company Users.deps.json
+C:\Users\iig\source\repos\7. Company Users\7. Company Users\bin\Debug\net5.0\7. Company Users.runtimeconfig.json
+C:\Users\iig\source\repos\7. Company Users\7. Company Users\bin\Debug\net5.0\7. Company Users.runtimeconfig.dev.json
+C:\Users\iig\source\repos\7. Company Users\7. Company Users\bin\Debug\net5.0\7. Company Users.dll
+C:\Users\iig\source\repos\7. Company Users\7. Company Users\bin\Debug\net5.0\ref\7. Company Users.dll
+C:\Users\iig\source\repos\7. Company Users\7. Company Users\bin\Debug\net5.0\7. Company Users.pdb
+C:\Users\iig\source\repos\7. Company Users\7. Company Users\obj\Debug\net5.0\7. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\7. Company Users\7. Company Users\obj\Debug\net5.0\7. Company Users.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\7. Company Users\7. Company Users\obj\Debug\net5.0\7. Company Users.AssemblyInfo.cs
+C:\Users\iig\source\repos\7. Company Users\7. Company Users\obj\Debug\net5.0\7. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\7. Company Users\7. Company Users\obj\Debug\net5.0\7. Company Users.dll
+C:\Users\iig\source\repos\7. Company Users\7. Company Users\obj\Debug\net5.0\ref\7. Company Users.dll
+C:\Users\iig\source\repos\7. Company Users\7. Company Users\obj\Debug\net5.0\7. Company Users.pdb
+C:\Users\iig\source\repos\7. Company Users\7. Company Users\obj\Debug\net5.0\7. Company Users.genruntimeconfig.cache
