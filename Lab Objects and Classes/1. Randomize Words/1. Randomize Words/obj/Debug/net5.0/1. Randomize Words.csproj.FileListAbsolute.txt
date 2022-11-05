@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\bin\Debug\net5.0\1. Randomize Words.exe
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\bin\Debug\net5.0\1. Randomize Words.deps.json
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\bin\Debug\net5.0\1. Randomize Words.runtimeconfig.json
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\bin\Debug\net5.0\1. Randomize Words.runtimeconfig.dev.json
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\bin\Debug\net5.0\1. Randomize Words.dll
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\bin\Debug\net5.0\ref\1. Randomize Words.dll
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\bin\Debug\net5.0\1. Randomize Words.pdb
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\obj\Debug\net5.0\1. Randomize Words.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\obj\Debug\net5.0\1. Randomize Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\obj\Debug\net5.0\1. Randomize Words.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\obj\Debug\net5.0\1. Randomize Words.AssemblyInfo.cs
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\obj\Debug\net5.0\1. Randomize Words.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\obj\Debug\net5.0\1. Randomize Words.dll
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\obj\Debug\net5.0\ref\1. Randomize Words.dll
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\obj\Debug\net5.0\1. Randomize Words.pdb
+C:\Users\iig\source\repos\1. Randomize Words\1. Randomize Words\obj\Debug\net5.0\1. Randomize Words.genruntimeconfig.cache
