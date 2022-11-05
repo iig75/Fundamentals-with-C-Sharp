@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\bin\Debug\net5.0\1. Company Roster.exe
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\bin\Debug\net5.0\1. Company Roster.deps.json
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\bin\Debug\net5.0\1. Company Roster.runtimeconfig.json
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\bin\Debug\net5.0\1. Company Roster.runtimeconfig.dev.json
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\bin\Debug\net5.0\1. Company Roster.dll
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\bin\Debug\net5.0\ref\1. Company Roster.dll
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\bin\Debug\net5.0\1. Company Roster.pdb
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\obj\Debug\net5.0\1. Company Roster.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\obj\Debug\net5.0\1. Company Roster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\obj\Debug\net5.0\1. Company Roster.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\obj\Debug\net5.0\1. Company Roster.AssemblyInfo.cs
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\obj\Debug\net5.0\1. Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\obj\Debug\net5.0\1. Company Roster.dll
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\obj\Debug\net5.0\ref\1. Company Roster.dll
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\obj\Debug\net5.0\1. Company Roster.pdb
+C:\Users\iig\source\repos\1. Company Roster\1. Company Roster\obj\Debug\net5.0\1. Company Roster.genruntimeconfig.cache
