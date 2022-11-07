@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\bin\Debug\net5.0\7. Vehicle Catalogue.exe
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\bin\Debug\net5.0\7. Vehicle Catalogue.deps.json
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\bin\Debug\net5.0\7. Vehicle Catalogue.runtimeconfig.json
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\bin\Debug\net5.0\7. Vehicle Catalogue.runtimeconfig.dev.json
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\bin\Debug\net5.0\7. Vehicle Catalogue.dll
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\bin\Debug\net5.0\ref\7. Vehicle Catalogue.dll
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\bin\Debug\net5.0\7. Vehicle Catalogue.pdb
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\obj\Debug\net5.0\7. Vehicle Catalogue.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\obj\Debug\net5.0\7. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\obj\Debug\net5.0\7. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\obj\Debug\net5.0\7. Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\obj\Debug\net5.0\7. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\obj\Debug\net5.0\7. Vehicle Catalogue.dll
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\obj\Debug\net5.0\ref\7. Vehicle Catalogue.dll
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\obj\Debug\net5.0\7. Vehicle Catalogue.pdb
+C:\Users\iig\source\repos\7. Vehicle Catalogue\7. Vehicle Catalogue\obj\Debug\net5.0\7. Vehicle Catalogue.genruntimeconfig.cache
