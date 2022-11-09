@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.AssemblyInfo.cs
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.exe
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.deps.json
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.runtimeconfig.json
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.runtimeconfig.dev.json
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.dll
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\bin\Debug\net5.0\ref\1. Reverse Strings.dll
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\bin\Debug\net5.0\1. Reverse Strings.pdb
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.dll
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\obj\Debug\net5.0\ref\1. Reverse Strings.dll
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.pdb
+C:\Users\iig\source\repos\1. Reverse Strings\1. Reverse Strings\obj\Debug\net5.0\1. Reverse Strings.genruntimeconfig.cache
