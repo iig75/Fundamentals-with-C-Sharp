@@ -1,0 +1,15 @@
+C:\Users\iig\source\repos\5. Digits, Letters and Others\5. Digits, Letters and Others\bin\Debug\net5.0\5. Digits, Letters and Others.exe
+C:\Users\iig\source\repos\5. Digits, Letters and Others\5. Digits, Letters and Others\bin\Debug\net5.0\5. Digits, Letters and Others.deps.json
+C:\Users\iig\source\repos\5. Digits, Letters and Others\5. Digits, Letters and Others\bin\Debug\net5.0\5. Digits, Letters and Others.runtimeconfig.json
+C:\Users\iig\source\repos\5. Digits, Letters and Others\5. Digits, Letters and Others\bin\Debug\net5.0\5. Digits, Letters and Others.runtimeconfig.dev.json
+C:\Users\iig\source\repos\5. Digits, Letters and Others\5. Digits, Letters and Others\bin\Debug\net5.0\5. Digits, Letters and Others.dll
+C:\Users\iig\source\repos\5. Digits, Letters and Others\5. Digits, Letters and Others\bin\Debug\net5.0\ref\5. Digits, Letters and Others.dll
+C:\Users\iig\source\repos\5. Digits, Letters and Others\5. Digits, Letters and Others\bin\Debug\net5.0\5. Digits, Letters and Others.pdb
+C:\Users\iig\source\repos\5. Digits, Letters and Others\5. Digits, Letters and Others\obj\Debug\net5.0\5. Digits, Letters and Others.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\5. Digits, Letters and Others\5. Digits, Letters and Others\obj\Debug\net5.0\5. Digits, Letters and Others.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\5. Digits, Letters and Others\5. Digits, Letters and Others\obj\Debug\net5.0\5. Digits, Letters and Others.AssemblyInfo.cs
+C:\Users\iig\source\repos\5. Digits, Letters and Others\5. Digits, Letters and Others\obj\Debug\net5.0\5. Digits, Letters and Others.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\5. Digits, Letters and Others\5. Digits, Letters and Others\obj\Debug\net5.0\5. Digits, Letters and Others.dll
+C:\Users\iig\source\repos\5. Digits, Letters and Others\5. Digits, Letters and Others\obj\Debug\net5.0\ref\5. Digits, Letters and Others.dll
+C:\Users\iig\source\repos\5. Digits, Letters and Others\5. Digits, Letters and Others\obj\Debug\net5.0\5. Digits, Letters and Others.pdb
+C:\Users\iig\source\repos\5. Digits, Letters and Others\5. Digits, Letters and Others\obj\Debug\net5.0\5. Digits, Letters and Others.genruntimeconfig.cache
