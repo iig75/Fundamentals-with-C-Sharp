@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\bin\Debug\net5.0\4. Text Filter.exe
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\bin\Debug\net5.0\4. Text Filter.deps.json
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\bin\Debug\net5.0\4. Text Filter.runtimeconfig.json
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\bin\Debug\net5.0\4. Text Filter.runtimeconfig.dev.json
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\bin\Debug\net5.0\4. Text Filter.dll
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\bin\Debug\net5.0\ref\4. Text Filter.dll
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\bin\Debug\net5.0\4. Text Filter.pdb
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\obj\Debug\net5.0\4. Text Filter.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\obj\Debug\net5.0\4. Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\obj\Debug\net5.0\4. Text Filter.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\obj\Debug\net5.0\4. Text Filter.AssemblyInfo.cs
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\obj\Debug\net5.0\4. Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\obj\Debug\net5.0\4. Text Filter.dll
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\obj\Debug\net5.0\ref\4. Text Filter.dll
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\obj\Debug\net5.0\4. Text Filter.pdb
+C:\Users\iig\source\repos\4. Text Filter\4. Text Filter\obj\Debug\net5.0\4. Text Filter.genruntimeconfig.cache
