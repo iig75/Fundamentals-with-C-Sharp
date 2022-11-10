@@ -1,0 +1,15 @@
+C:\Users\igospodinov.TUGAB\source\repos\3. Extract File\3. Extract File\bin\Debug\net5.0\3. Extract File.exe
+C:\Users\igospodinov.TUGAB\source\repos\3. Extract File\3. Extract File\bin\Debug\net5.0\3. Extract File.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\3. Extract File\3. Extract File\bin\Debug\net5.0\3. Extract File.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\3. Extract File\3. Extract File\bin\Debug\net5.0\3. Extract File.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\3. Extract File\3. Extract File\bin\Debug\net5.0\3. Extract File.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. Extract File\3. Extract File\bin\Debug\net5.0\ref\3. Extract File.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. Extract File\3. Extract File\bin\Debug\net5.0\3. Extract File.pdb
+C:\Users\igospodinov.TUGAB\source\repos\3. Extract File\3. Extract File\obj\Debug\net5.0\3. Extract File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\3. Extract File\3. Extract File\obj\Debug\net5.0\3. Extract File.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\3. Extract File\3. Extract File\obj\Debug\net5.0\3. Extract File.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\3. Extract File\3. Extract File\obj\Debug\net5.0\3. Extract File.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\3. Extract File\3. Extract File\obj\Debug\net5.0\3. Extract File.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. Extract File\3. Extract File\obj\Debug\net5.0\ref\3. Extract File.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. Extract File\3. Extract File\obj\Debug\net5.0\3. Extract File.pdb
+C:\Users\igospodinov.TUGAB\source\repos\3. Extract File\3. Extract File\obj\Debug\net5.0\3. Extract File.genruntimeconfig.cache
