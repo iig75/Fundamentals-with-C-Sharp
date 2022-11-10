@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\bin\Debug\net5.0\4. Caesar Cipher.exe
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\bin\Debug\net5.0\4. Caesar Cipher.deps.json
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\bin\Debug\net5.0\4. Caesar Cipher.runtimeconfig.json
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\bin\Debug\net5.0\4. Caesar Cipher.runtimeconfig.dev.json
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\bin\Debug\net5.0\4. Caesar Cipher.dll
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\bin\Debug\net5.0\ref\4. Caesar Cipher.dll
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\bin\Debug\net5.0\4. Caesar Cipher.pdb
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\obj\Debug\net5.0\4. Caesar Cipher.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\obj\Debug\net5.0\4. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\obj\Debug\net5.0\4. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\obj\Debug\net5.0\4. Caesar Cipher.AssemblyInfo.cs
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\obj\Debug\net5.0\4. Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\obj\Debug\net5.0\4. Caesar Cipher.dll
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\obj\Debug\net5.0\ref\4. Caesar Cipher.dll
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\obj\Debug\net5.0\4. Caesar Cipher.pdb
+C:\Users\iig\source\repos\4. Caesar Cipher\4. Caesar Cipher\obj\Debug\net5.0\4. Caesar Cipher.genruntimeconfig.cache
