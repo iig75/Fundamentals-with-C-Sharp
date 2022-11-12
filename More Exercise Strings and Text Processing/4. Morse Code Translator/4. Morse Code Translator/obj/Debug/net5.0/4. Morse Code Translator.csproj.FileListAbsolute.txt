@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\bin\Debug\net5.0\4. Morse Code Translator.exe
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\bin\Debug\net5.0\4. Morse Code Translator.deps.json
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\bin\Debug\net5.0\4. Morse Code Translator.runtimeconfig.json
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\bin\Debug\net5.0\4. Morse Code Translator.runtimeconfig.dev.json
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\bin\Debug\net5.0\4. Morse Code Translator.dll
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\bin\Debug\net5.0\ref\4. Morse Code Translator.dll
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\bin\Debug\net5.0\4. Morse Code Translator.pdb
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\obj\Debug\net5.0\4. Morse Code Translator.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\obj\Debug\net5.0\4. Morse Code Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\obj\Debug\net5.0\4. Morse Code Translator.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\obj\Debug\net5.0\4. Morse Code Translator.AssemblyInfo.cs
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\obj\Debug\net5.0\4. Morse Code Translator.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\obj\Debug\net5.0\4. Morse Code Translator.dll
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\obj\Debug\net5.0\ref\4. Morse Code Translator.dll
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\obj\Debug\net5.0\4. Morse Code Translator.pdb
+C:\Users\iig\source\repos\4. Morse Code Translator\4. Morse Code Translator\obj\Debug\net5.0\4. Morse Code Translator.genruntimeconfig.cache
