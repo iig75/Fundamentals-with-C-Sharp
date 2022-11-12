@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\bin\Debug\net5.0\7. String Explosion.exe
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\bin\Debug\net5.0\7. String Explosion.deps.json
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\bin\Debug\net5.0\7. String Explosion.runtimeconfig.json
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\bin\Debug\net5.0\7. String Explosion.runtimeconfig.dev.json
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\bin\Debug\net5.0\7. String Explosion.dll
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\bin\Debug\net5.0\ref\7. String Explosion.dll
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\bin\Debug\net5.0\7. String Explosion.pdb
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\obj\Debug\net5.0\7. String Explosion.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\obj\Debug\net5.0\7. String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\obj\Debug\net5.0\7. String Explosion.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\obj\Debug\net5.0\7. String Explosion.AssemblyInfo.cs
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\obj\Debug\net5.0\7. String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\obj\Debug\net5.0\7. String Explosion.dll
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\obj\Debug\net5.0\ref\7. String Explosion.dll
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\obj\Debug\net5.0\7. String Explosion.pdb
+C:\Users\iig\source\repos\7. String Explosion\7. String Explosion\obj\Debug\net5.0\7. String Explosion.genruntimeconfig.cache
