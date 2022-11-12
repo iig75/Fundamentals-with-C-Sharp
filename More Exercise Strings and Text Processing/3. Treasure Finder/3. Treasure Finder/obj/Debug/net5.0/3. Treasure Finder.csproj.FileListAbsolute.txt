@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\bin\Debug\net5.0\3. Treasure Finder.exe
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\bin\Debug\net5.0\3. Treasure Finder.deps.json
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\bin\Debug\net5.0\3. Treasure Finder.runtimeconfig.json
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\bin\Debug\net5.0\3. Treasure Finder.runtimeconfig.dev.json
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\bin\Debug\net5.0\3. Treasure Finder.dll
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\bin\Debug\net5.0\ref\3. Treasure Finder.dll
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\bin\Debug\net5.0\3. Treasure Finder.pdb
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.AssemblyInfo.cs
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.dll
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\obj\Debug\net5.0\ref\3. Treasure Finder.dll
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.pdb
+C:\Users\iig\source\repos\3. Treasure Finder\3. Treasure Finder\obj\Debug\net5.0\3. Treasure Finder.genruntimeconfig.cache
