@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\bin\Debug\net5.0\2. Ascii Sumator.exe
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\bin\Debug\net5.0\2. Ascii Sumator.deps.json
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\bin\Debug\net5.0\2. Ascii Sumator.runtimeconfig.json
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\bin\Debug\net5.0\2. Ascii Sumator.runtimeconfig.dev.json
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\bin\Debug\net5.0\2. Ascii Sumator.dll
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\bin\Debug\net5.0\ref\2. Ascii Sumator.dll
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\bin\Debug\net5.0\2. Ascii Sumator.pdb
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.AssemblyInfo.cs
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.dll
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\obj\Debug\net5.0\ref\2. Ascii Sumator.dll
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.pdb
+C:\Users\iig\source\repos\2. Ascii Sumator\2. Ascii Sumator\obj\Debug\net5.0\2. Ascii Sumator.genruntimeconfig.cache
