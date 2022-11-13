@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\bin\Debug\net5.0\5. Multiply Big Number.exe
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\bin\Debug\net5.0\5. Multiply Big Number.deps.json
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\bin\Debug\net5.0\5. Multiply Big Number.runtimeconfig.json
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\bin\Debug\net5.0\5. Multiply Big Number.runtimeconfig.dev.json
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\bin\Debug\net5.0\5. Multiply Big Number.dll
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\bin\Debug\net5.0\ref\5. Multiply Big Number.dll
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\bin\Debug\net5.0\5. Multiply Big Number.pdb
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\obj\Debug\net5.0\5. Multiply Big Number.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\obj\Debug\net5.0\5. Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\obj\Debug\net5.0\5. Multiply Big Number.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\obj\Debug\net5.0\5. Multiply Big Number.AssemblyInfo.cs
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\obj\Debug\net5.0\5. Multiply Big Number.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\obj\Debug\net5.0\5. Multiply Big Number.dll
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\obj\Debug\net5.0\ref\5. Multiply Big Number.dll
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\obj\Debug\net5.0\5. Multiply Big Number.pdb
+C:\Users\iig\source\repos\5. Multiply Big Number\5. Multiply Big Number\obj\Debug\net5.0\5. Multiply Big Number.genruntimeconfig.cache
