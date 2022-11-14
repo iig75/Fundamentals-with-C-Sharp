@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\bin\Debug\net5.0\8. Letters Change Numbers.exe
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\bin\Debug\net5.0\8. Letters Change Numbers.deps.json
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\bin\Debug\net5.0\8. Letters Change Numbers.runtimeconfig.json
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\bin\Debug\net5.0\8. Letters Change Numbers.runtimeconfig.dev.json
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\bin\Debug\net5.0\8. Letters Change Numbers.dll
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\bin\Debug\net5.0\ref\8. Letters Change Numbers.dll
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\bin\Debug\net5.0\8. Letters Change Numbers.pdb
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.AssemblyInfo.cs
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.dll
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\obj\Debug\net5.0\ref\8. Letters Change Numbers.dll
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.pdb
+C:\Users\iig\source\repos\8. Letters Change Numbers\8. Letters Change Numbers\obj\Debug\net5.0\8. Letters Change Numbers.genruntimeconfig.cache
