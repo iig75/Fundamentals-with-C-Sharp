@@ -1,0 +1,16 @@
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\bin\Debug\net5.0\3. Match Dates.exe
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\bin\Debug\net5.0\3. Match Dates.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\bin\Debug\net5.0\3. Match Dates.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\bin\Debug\net5.0\3. Match Dates.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\bin\Debug\net5.0\3. Match Dates.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\bin\Debug\net5.0\ref\3. Match Dates.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\bin\Debug\net5.0\3. Match Dates.pdb
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\obj\Debug\net5.0\3. Match Dates.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\obj\Debug\net5.0\3. Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\obj\Debug\net5.0\3. Match Dates.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\obj\Debug\net5.0\3. Match Dates.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\obj\Debug\net5.0\3. Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\obj\Debug\net5.0\3. Match Dates.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\obj\Debug\net5.0\ref\3. Match Dates.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\obj\Debug\net5.0\3. Match Dates.pdb
+C:\Users\igospodinov.TUGAB\source\repos\3. Match Dates\3. Match Dates\obj\Debug\net5.0\3. Match Dates.genruntimeconfig.cache
