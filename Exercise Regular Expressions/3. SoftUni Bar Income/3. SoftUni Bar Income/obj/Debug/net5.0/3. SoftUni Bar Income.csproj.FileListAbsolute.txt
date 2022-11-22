@@ -1,0 +1,16 @@
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\bin\Debug\net5.0\3. SoftUni Bar Income.exe
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\bin\Debug\net5.0\3. SoftUni Bar Income.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\bin\Debug\net5.0\3. SoftUni Bar Income.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\bin\Debug\net5.0\3. SoftUni Bar Income.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\bin\Debug\net5.0\3. SoftUni Bar Income.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\bin\Debug\net5.0\ref\3. SoftUni Bar Income.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\bin\Debug\net5.0\3. SoftUni Bar Income.pdb
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\obj\Debug\net5.0\ref\3. SoftUni Bar Income.dll
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.pdb
+C:\Users\igospodinov.TUGAB\source\repos\3. SoftUni Bar Income\3. SoftUni Bar Income\obj\Debug\net5.0\3. SoftUni Bar Income.genruntimeconfig.cache
