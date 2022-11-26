@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\bin\Debug\net5.0\Problem 3 - Heroes of Code and Logic VII.exe
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\bin\Debug\net5.0\Problem 3 - Heroes of Code and Logic VII.deps.json
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\bin\Debug\net5.0\Problem 3 - Heroes of Code and Logic VII.runtimeconfig.json
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\bin\Debug\net5.0\Problem 3 - Heroes of Code and Logic VII.runtimeconfig.dev.json
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\bin\Debug\net5.0\Problem 3 - Heroes of Code and Logic VII.dll
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\bin\Debug\net5.0\ref\Problem 3 - Heroes of Code and Logic VII.dll
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\bin\Debug\net5.0\Problem 3 - Heroes of Code and Logic VII.pdb
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net5.0\Problem 3 - Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net5.0\Problem 3 - Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net5.0\Problem 3 - Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net5.0\Problem 3 - Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net5.0\Problem 3 - Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net5.0\Problem 3 - Heroes of Code and Logic VII.dll
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net5.0\ref\Problem 3 - Heroes of Code and Logic VII.dll
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net5.0\Problem 3 - Heroes of Code and Logic VII.pdb
+C:\Users\iig\source\repos\Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII\obj\Debug\net5.0\Problem 3 - Heroes of Code and Logic VII.genruntimeconfig.cache

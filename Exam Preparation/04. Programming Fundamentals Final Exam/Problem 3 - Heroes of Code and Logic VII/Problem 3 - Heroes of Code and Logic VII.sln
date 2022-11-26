@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3 - Heroes of Code and Logic VII", "Problem 3 - Heroes of Code and Logic VII\Problem 3 - Heroes of Code and Logic VII.csproj", "{667213F5-65D0-4575-9B29-EE0013DE0F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667213F5-65D0-4575-9B29-EE0013DE0F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667213F5-65D0-4575-9B29-EE0013DE0F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667213F5-65D0-4575-9B29-EE0013DE0F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667213F5-65D0-4575-9B29-EE0013DE0F20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4130D9F-27CD-40B8-B4E2-E998AF34BA55}
+	EndGlobalSection
+EndGlobal
