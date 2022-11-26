@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\bin\Debug\net5.0\Problem 2 - Fancy Barcodes.exe
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\bin\Debug\net5.0\Problem 2 - Fancy Barcodes.deps.json
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\bin\Debug\net5.0\Problem 2 - Fancy Barcodes.runtimeconfig.json
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\bin\Debug\net5.0\Problem 2 - Fancy Barcodes.runtimeconfig.dev.json
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\bin\Debug\net5.0\Problem 2 - Fancy Barcodes.dll
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\bin\Debug\net5.0\ref\Problem 2 - Fancy Barcodes.dll
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\bin\Debug\net5.0\Problem 2 - Fancy Barcodes.pdb
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\obj\Debug\net5.0\Problem 2 - Fancy Barcodes.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\obj\Debug\net5.0\Problem 2 - Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\obj\Debug\net5.0\Problem 2 - Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\obj\Debug\net5.0\Problem 2 - Fancy Barcodes.AssemblyInfo.cs
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\obj\Debug\net5.0\Problem 2 - Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\obj\Debug\net5.0\Problem 2 - Fancy Barcodes.dll
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\obj\Debug\net5.0\ref\Problem 2 - Fancy Barcodes.dll
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\obj\Debug\net5.0\Problem 2 - Fancy Barcodes.pdb
+C:\Users\iig\source\repos\Problem 2 - Fancy Barcodes\Problem 2 - Fancy Barcodes\obj\Debug\net5.0\Problem 2 - Fancy Barcodes.genruntimeconfig.cache
