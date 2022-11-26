@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\bin\Debug\net5.0\Problem 3 - P!rates.exe
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\bin\Debug\net5.0\Problem 3 - P!rates.deps.json
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\bin\Debug\net5.0\Problem 3 - P!rates.runtimeconfig.json
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\bin\Debug\net5.0\Problem 3 - P!rates.runtimeconfig.dev.json
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\bin\Debug\net5.0\Problem 3 - P!rates.dll
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\bin\Debug\net5.0\ref\Problem 3 - P!rates.dll
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\bin\Debug\net5.0\Problem 3 - P!rates.pdb
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.AssemblyInfo.cs
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.dll
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\obj\Debug\net5.0\ref\Problem 3 - P!rates.dll
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.pdb
+C:\Users\iig\source\repos\Problem 3 - P!rates\Problem 3 - P!rates\obj\Debug\net5.0\Problem 3 - P!rates.genruntimeconfig.cache
