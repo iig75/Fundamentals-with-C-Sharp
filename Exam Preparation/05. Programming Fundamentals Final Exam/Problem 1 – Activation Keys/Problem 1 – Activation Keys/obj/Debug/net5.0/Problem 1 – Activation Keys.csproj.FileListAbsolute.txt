@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\bin\Debug\net5.0\Problem 1 – Activation Keys.exe
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\bin\Debug\net5.0\Problem 1 – Activation Keys.deps.json
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\bin\Debug\net5.0\Problem 1 – Activation Keys.runtimeconfig.json
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\bin\Debug\net5.0\Problem 1 – Activation Keys.runtimeconfig.dev.json
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\bin\Debug\net5.0\Problem 1 – Activation Keys.dll
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\bin\Debug\net5.0\ref\Problem 1 – Activation Keys.dll
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\bin\Debug\net5.0\Problem 1 – Activation Keys.pdb
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\obj\Debug\net5.0\Problem 1 – Activation Keys.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\obj\Debug\net5.0\Problem 1 – Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\obj\Debug\net5.0\Problem 1 – Activation Keys.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\obj\Debug\net5.0\Problem 1 – Activation Keys.AssemblyInfo.cs
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\obj\Debug\net5.0\Problem 1 – Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\obj\Debug\net5.0\Problem 1 – Activation Keys.dll
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\obj\Debug\net5.0\ref\Problem 1 – Activation Keys.dll
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\obj\Debug\net5.0\Problem 1 – Activation Keys.pdb
+C:\Users\iig\source\repos\Problem 1 – Activation Keys\Problem 1 – Activation Keys\obj\Debug\net5.0\Problem 1 – Activation Keys.genruntimeconfig.cache
