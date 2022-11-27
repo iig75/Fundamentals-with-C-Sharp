@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\bin\Debug\net5.0\Problem 2 - Mirror words.exe
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\bin\Debug\net5.0\Problem 2 - Mirror words.deps.json
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\bin\Debug\net5.0\Problem 2 - Mirror words.runtimeconfig.json
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\bin\Debug\net5.0\Problem 2 - Mirror words.runtimeconfig.dev.json
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\bin\Debug\net5.0\Problem 2 - Mirror words.dll
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\bin\Debug\net5.0\ref\Problem 2 - Mirror words.dll
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\bin\Debug\net5.0\Problem 2 - Mirror words.pdb
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\obj\Debug\net5.0\Problem 2 - Mirror words.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\obj\Debug\net5.0\Problem 2 - Mirror words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\obj\Debug\net5.0\Problem 2 - Mirror words.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\obj\Debug\net5.0\Problem 2 - Mirror words.AssemblyInfo.cs
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\obj\Debug\net5.0\Problem 2 - Mirror words.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\obj\Debug\net5.0\Problem 2 - Mirror words.dll
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\obj\Debug\net5.0\ref\Problem 2 - Mirror words.dll
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\obj\Debug\net5.0\Problem 2 - Mirror words.pdb
+C:\Users\iig\source\repos\Problem 2 - Mirror words\Problem 2 - Mirror words\obj\Debug\net5.0\Problem 2 - Mirror words.genruntimeconfig.cache
