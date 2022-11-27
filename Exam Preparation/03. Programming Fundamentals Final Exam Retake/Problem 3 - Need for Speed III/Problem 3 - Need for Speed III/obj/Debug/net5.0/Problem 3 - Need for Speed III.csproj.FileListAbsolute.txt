@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\bin\Debug\net5.0\Problem 3 - Need for Speed III.exe
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\bin\Debug\net5.0\Problem 3 - Need for Speed III.deps.json
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\bin\Debug\net5.0\Problem 3 - Need for Speed III.runtimeconfig.json
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\bin\Debug\net5.0\Problem 3 - Need for Speed III.runtimeconfig.dev.json
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\bin\Debug\net5.0\Problem 3 - Need for Speed III.dll
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\bin\Debug\net5.0\ref\Problem 3 - Need for Speed III.dll
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\bin\Debug\net5.0\Problem 3 - Need for Speed III.pdb
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\obj\Debug\net5.0\Problem 3 - Need for Speed III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\obj\Debug\net5.0\Problem 3 - Need for Speed III.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\obj\Debug\net5.0\Problem 3 - Need for Speed III.AssemblyInfo.cs
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\obj\Debug\net5.0\Problem 3 - Need for Speed III.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\obj\Debug\net5.0\Problem 3 - Need for Speed III.dll
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\obj\Debug\net5.0\ref\Problem 3 - Need for Speed III.dll
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\obj\Debug\net5.0\Problem 3 - Need for Speed III.pdb
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\obj\Debug\net5.0\Problem 3 - Need for Speed III.genruntimeconfig.cache
+C:\Users\iig\source\repos\Problem 3 - Need for Speed III\Problem 3 - Need for Speed III\obj\Debug\net5.0\Problem 3 - Need for Speed III.csproj.AssemblyReference.cache
