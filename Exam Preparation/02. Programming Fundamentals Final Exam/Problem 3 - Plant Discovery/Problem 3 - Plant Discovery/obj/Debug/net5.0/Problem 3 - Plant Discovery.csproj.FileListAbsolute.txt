@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\obj\Debug\net5.0\Problem 3 - Plant Discovery.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\obj\Debug\net5.0\Problem 3 - Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\obj\Debug\net5.0\Problem 3 - Plant Discovery.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\obj\Debug\net5.0\Problem 3 - Plant Discovery.AssemblyInfo.cs
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\obj\Debug\net5.0\Problem 3 - Plant Discovery.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\bin\Debug\net5.0\Problem 3 - Plant Discovery.exe
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\bin\Debug\net5.0\Problem 3 - Plant Discovery.deps.json
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\bin\Debug\net5.0\Problem 3 - Plant Discovery.runtimeconfig.json
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\bin\Debug\net5.0\Problem 3 - Plant Discovery.runtimeconfig.dev.json
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\bin\Debug\net5.0\Problem 3 - Plant Discovery.dll
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\bin\Debug\net5.0\ref\Problem 3 - Plant Discovery.dll
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\bin\Debug\net5.0\Problem 3 - Plant Discovery.pdb
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\obj\Debug\net5.0\Problem 3 - Plant Discovery.dll
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\obj\Debug\net5.0\ref\Problem 3 - Plant Discovery.dll
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\obj\Debug\net5.0\Problem 3 - Plant Discovery.pdb
+C:\Users\iig\source\repos\Problem 3 - Plant Discovery\Problem 3 - Plant Discovery\obj\Debug\net5.0\Problem 3 - Plant Discovery.genruntimeconfig.cache
