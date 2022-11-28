@@ -1,0 +1,15 @@
+C:\Users\iig\source\repos\Problem 1 - World Tour\Problem 1 - World Tour\bin\Debug\net5.0\Problem 1 - World Tour.exe
+C:\Users\iig\source\repos\Problem 1 - World Tour\Problem 1 - World Tour\bin\Debug\net5.0\Problem 1 - World Tour.deps.json
+C:\Users\iig\source\repos\Problem 1 - World Tour\Problem 1 - World Tour\bin\Debug\net5.0\Problem 1 - World Tour.runtimeconfig.json
+C:\Users\iig\source\repos\Problem 1 - World Tour\Problem 1 - World Tour\bin\Debug\net5.0\Problem 1 - World Tour.runtimeconfig.dev.json
+C:\Users\iig\source\repos\Problem 1 - World Tour\Problem 1 - World Tour\bin\Debug\net5.0\Problem 1 - World Tour.dll
+C:\Users\iig\source\repos\Problem 1 - World Tour\Problem 1 - World Tour\bin\Debug\net5.0\ref\Problem 1 - World Tour.dll
+C:\Users\iig\source\repos\Problem 1 - World Tour\Problem 1 - World Tour\bin\Debug\net5.0\Problem 1 - World Tour.pdb
+C:\Users\iig\source\repos\Problem 1 - World Tour\Problem 1 - World Tour\obj\Debug\net5.0\Problem 1 - World Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\Problem 1 - World Tour\Problem 1 - World Tour\obj\Debug\net5.0\Problem 1 - World Tour.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\Problem 1 - World Tour\Problem 1 - World Tour\obj\Debug\net5.0\Problem 1 - World Tour.AssemblyInfo.cs
+C:\Users\iig\source\repos\Problem 1 - World Tour\Problem 1 - World Tour\obj\Debug\net5.0\Problem 1 - World Tour.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\Problem 1 - World Tour\Problem 1 - World Tour\obj\Debug\net5.0\Problem 1 - World Tour.dll
+C:\Users\iig\source\repos\Problem 1 - World Tour\Problem 1 - World Tour\obj\Debug\net5.0\ref\Problem 1 - World Tour.dll
+C:\Users\iig\source\repos\Problem 1 - World Tour\Problem 1 - World Tour\obj\Debug\net5.0\Problem 1 - World Tour.pdb
+C:\Users\iig\source\repos\Problem 1 - World Tour\Problem 1 - World Tour\obj\Debug\net5.0\Problem 1 - World Tour.genruntimeconfig.cache
