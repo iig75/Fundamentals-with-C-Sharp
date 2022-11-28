@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\bin\Debug\net5.0\Problem 2 - Destination Mapper.exe
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\bin\Debug\net5.0\Problem 2 - Destination Mapper.deps.json
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\bin\Debug\net5.0\Problem 2 - Destination Mapper.runtimeconfig.json
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\bin\Debug\net5.0\Problem 2 - Destination Mapper.runtimeconfig.dev.json
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\bin\Debug\net5.0\Problem 2 - Destination Mapper.dll
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\bin\Debug\net5.0\ref\Problem 2 - Destination Mapper.dll
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\bin\Debug\net5.0\Problem 2 - Destination Mapper.pdb
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\obj\Debug\net5.0\Problem 2 - Destination Mapper.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\obj\Debug\net5.0\Problem 2 - Destination Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\obj\Debug\net5.0\Problem 2 - Destination Mapper.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\obj\Debug\net5.0\Problem 2 - Destination Mapper.AssemblyInfo.cs
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\obj\Debug\net5.0\Problem 2 - Destination Mapper.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\obj\Debug\net5.0\Problem 2 - Destination Mapper.dll
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\obj\Debug\net5.0\ref\Problem 2 - Destination Mapper.dll
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\obj\Debug\net5.0\Problem 2 - Destination Mapper.pdb
+C:\Users\iig\source\repos\Problem 2 - Destination Mapper\Problem 2 - Destination Mapper\obj\Debug\net5.0\Problem 2 - Destination Mapper.genruntimeconfig.cache
