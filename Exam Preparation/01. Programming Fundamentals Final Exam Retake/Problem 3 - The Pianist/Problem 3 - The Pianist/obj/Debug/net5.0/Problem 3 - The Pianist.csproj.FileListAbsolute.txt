@@ -1,0 +1,16 @@
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\bin\Debug\net5.0\Problem 3 - The Pianist.exe
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\bin\Debug\net5.0\Problem 3 - The Pianist.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\bin\Debug\net5.0\Problem 3 - The Pianist.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\bin\Debug\net5.0\Problem 3 - The Pianist.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\bin\Debug\net5.0\Problem 3 - The Pianist.dll
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\bin\Debug\net5.0\ref\Problem 3 - The Pianist.dll
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\bin\Debug\net5.0\Problem 3 - The Pianist.pdb
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\obj\Debug\net5.0\Problem 3 - The Pianist.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\obj\Debug\net5.0\Problem 3 - The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\obj\Debug\net5.0\Problem 3 - The Pianist.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\obj\Debug\net5.0\Problem 3 - The Pianist.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\obj\Debug\net5.0\Problem 3 - The Pianist.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\obj\Debug\net5.0\Problem 3 - The Pianist.dll
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\obj\Debug\net5.0\ref\Problem 3 - The Pianist.dll
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\obj\Debug\net5.0\Problem 3 - The Pianist.pdb
+C:\Users\igospodinov.TUGAB\source\repos\Problem 3 - The Pianist\Problem 3 - The Pianist\obj\Debug\net5.0\Problem 3 - The Pianist.genruntimeconfig.cache
