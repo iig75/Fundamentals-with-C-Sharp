@@ -1,0 +1,16 @@
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\bin\Debug\net5.0\Santa’s New List.exe
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\bin\Debug\net5.0\Santa’s New List.deps.json
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\bin\Debug\net5.0\Santa’s New List.runtimeconfig.json
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\bin\Debug\net5.0\Santa’s New List.runtimeconfig.dev.json
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\bin\Debug\net5.0\Santa’s New List.dll
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\bin\Debug\net5.0\ref\Santa’s New List.dll
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\bin\Debug\net5.0\Santa’s New List.pdb
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\obj\Debug\net5.0\Santa’s New List.csproj.AssemblyReference.cache
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\obj\Debug\net5.0\Santa’s New List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\obj\Debug\net5.0\Santa’s New List.AssemblyInfoInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\obj\Debug\net5.0\Santa’s New List.AssemblyInfo.cs
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\obj\Debug\net5.0\Santa’s New List.csproj.CoreCompileInputs.cache
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\obj\Debug\net5.0\Santa’s New List.dll
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\obj\Debug\net5.0\ref\Santa’s New List.dll
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\obj\Debug\net5.0\Santa’s New List.pdb
+C:\Users\igospodinov.TUGAB\source\repos\Santa’s New List\Santa’s New List\obj\Debug\net5.0\Santa’s New List.genruntimeconfig.cache
