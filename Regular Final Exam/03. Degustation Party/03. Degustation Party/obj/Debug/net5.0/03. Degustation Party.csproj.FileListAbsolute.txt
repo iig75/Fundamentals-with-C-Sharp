@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\bin\Debug\net5.0\03. Degustation Party.exe
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\bin\Debug\net5.0\03. Degustation Party.deps.json
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\bin\Debug\net5.0\03. Degustation Party.runtimeconfig.json
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\bin\Debug\net5.0\03. Degustation Party.runtimeconfig.dev.json
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\bin\Debug\net5.0\03. Degustation Party.dll
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\bin\Debug\net5.0\ref\03. Degustation Party.dll
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\bin\Debug\net5.0\03. Degustation Party.pdb
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\obj\Debug\net5.0\03. Degustation Party.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\obj\Debug\net5.0\03. Degustation Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\obj\Debug\net5.0\03. Degustation Party.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\obj\Debug\net5.0\03. Degustation Party.AssemblyInfo.cs
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\obj\Debug\net5.0\03. Degustation Party.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\obj\Debug\net5.0\03. Degustation Party.dll
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\obj\Debug\net5.0\ref\03. Degustation Party.dll
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\obj\Debug\net5.0\03. Degustation Party.pdb
+C:\Users\iig\source\repos\03. Degustation Party\03. Degustation Party\obj\Debug\net5.0\03. Degustation Party.genruntimeconfig.cache
